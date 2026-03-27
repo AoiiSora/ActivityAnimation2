@@ -40,12 +40,12 @@ class _MessagePageState extends State<MessagePage>
 
           FadeTransition(
             opacity: _first,
-            child: Text("Message 1", style: TextStyle(fontSize: 20)),
+            child: Text("Hello", style: TextStyle(fontSize: 20)),
           ),
 
           FadeTransition(
             opacity: _second,
-            child: Text("Message 2", style: TextStyle(fontSize: 20)),
+            child: Text("Hii", style: TextStyle(fontSize: 20)),
           ),
         ],
       ),
