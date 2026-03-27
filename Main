@@ -45,7 +45,7 @@ class _MainScreenState extends State<MainScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Tongli's App's Salig lang ;>"),
+        title: Text("Mobile Apps"),
       ),
 
       drawer: Drawer(
